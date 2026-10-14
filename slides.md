@@ -93,7 +93,7 @@ Quando scegli un desktop scegli:
 ---
 
 ## COME INIZIARE A CONTRIBUIRE
-Mi annoiavo a lezione
+Mi annoiavo a lezoine
 --
 Soluzione: e se provassi a modificare i file di sistema per rendere tutto trasparente?
 ![Plasma 5.13 con trasparenze, 2018](img/mondo/plasma-5-13-kwin-blur-trasparenza-2018.png)
@@ -163,7 +163,7 @@ Nonostante questo decido che rivoluzionerò KDE!
 
 ### KDE Goals
 Si scelgono ogni due anni
-Chiunque può porporne uno
+Chiunque può proporne uno
 ![La votazione dei Goal 2019 su Phabricator](img/storia/phabricator-goal-setting-2019-board-selected.png)
 
 ---
@@ -176,7 +176,7 @@ Note: 2.454 parole nella versione inviata il 13 giugno 2019; 3.052 in quella vot
 ---
 
 <!-- NUOVO -->
-### Cosa non mi piaceva
+### Cosa non mi piaceav
 ![](img/storia/kde-apps-2019-inconsistent-sidebars-navigation.png)
 ![](img/storia/kde-apps-2019-inconsistent-tabs.png)
 
@@ -301,7 +301,7 @@ Infatti in KDE ci sono interi team che non programmano:
 ---
 
 ## COME CERCARE DI FARE COLPO
-Un giorno le chat di KDE dicono che sta per succedere qualcosa di grosso
+Un giorno le chat di KDE dicono che sta per succedere qualcosa di grosos
 Mi mandano un link a una diretta di Valve. Mi metto le cuffie mentre vado in università (sono in ritardo)
 --
 Annunciano lo SteamDeck
