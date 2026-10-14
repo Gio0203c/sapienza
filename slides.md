@@ -399,7 +399,7 @@ COME FARSI ASSUMERE: essere in cima a quella leaderboard per qualche mese
 ## COME ANDARE IN BURNOUT
 Un anno fa stavo passeggiando sotto casa mia, camminando avanti indietro
 --
-Dovevo lavorare. (Non stavo lavorando). ((Non riuscivo proprio a lavorare)).
+Dovevo lavorare. (Non stavo lavorando). (Non riuscivo proprio a lavorare).
 ![](img/meme/meme-burnout-this-is-fine.jpg)
 
 ---
