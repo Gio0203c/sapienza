@@ -144,7 +144,7 @@ Note: era la D17352 su Calligra Sheets, 4–27 dic 2018. Review di aspotashev: �
 <!-- NUOVO -->
 {.oss}
 ### Intanto, nel mondo open source
-Come lavorano insieme migliaia di persone che non si sono mai viste:
+Come lavorano insieme migliaia di persone che non si sono mai visite:
 - invent.kde.org: il codice e le code review
 - bugs.kde.org: i bug
 - Matrix: le chat (dove si passa la vita)
@@ -193,7 +193,7 @@ Per una botta di culo, la conferenza annuale di KDE dopo la mia quarta liceo si 
 
 ---
 
-Il primo talk della prima giornata: dopo votazione di tutta la comunità, annuncio dei Goal scelti!
+Il primo talk della prima giornata: dopo votazione di tutta la comunità, annucio dei Goal scelti!
 --
 Spoiler: HO VINTO!
 ![Akademy 2019: io (a destra) e Jonathan Riddell. Foto: dot.kde.org](img/storia/akademy2019-goals-niccolo-and-jonathan-riddell.jpg)
@@ -366,7 +366,7 @@ E, come risultato:
 
 Durante l'Akademy dopo che ho finito il mio Goal (a Salonicco, Grecia) sono stato circondato da tre dei migliori sviluppatori KDE tra un talk e l'altro
 --
-Gli ho chiesto cosa volesero
+Gli ho chiesto cosa volessero
 --
 Mi hanno detto "farmi un colloquio di lavoro". Avanzavano dei soldi di Valve
 --
